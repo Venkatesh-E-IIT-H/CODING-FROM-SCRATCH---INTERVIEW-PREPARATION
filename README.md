@@ -71,8 +71,7 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [653. Two Sum IV - Input is a BST
-](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)   | Easy     | O(n)            | O(n)   | [Python Solution Code](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/1421935/Python-Two-Approaches-Approach-1%3A-DFS-Approach-2%3A-Inorder-Traversal)|
+|Leetcode| [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)   | Easy     | O(n)            | O(n)   | [Python Solution Code-Leetcode Discuss](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/1421935/Python-Two-Approaches-Approach-1%3A-DFS-Approach-2%3A-Inorder-Traversal)|
 
 <h3 align="center">9. HEAPS</h3>
 
