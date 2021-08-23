@@ -28,7 +28,8 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [Two Sum](https://leetcode.com/problems/two-sum/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum/discuss/1421858/Python-Solution-using-Dictionary-Time-Complexity%3A-O(n)-Space-Complexity%3A-O(n))|
+|Leetcode| [1. Two Sum](https://leetcode.com/problems/two-sum/)   | Easy    | O(n)            | O(N)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum/discuss/1421858/Python-Solution-using-Dictionary-Time-Complexity%3A-O(n)-Space-Complexity%3A-O(n))|
+|Leetcode| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1421879/Python-Solution-Two-Pointer-Approach-Tc%3A-O(n)-and-Sc%3A-O(1))|
 
 <h3 align="center">2. BIT MANIPULATION</h3>
 
@@ -70,7 +71,8 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [Non - Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)   | Medium     | O(n)            | O(1)   | [Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)[Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)|
+|Leetcode| [653. Two Sum IV - Input is a BST
+](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)   | Easy     | O(n)            | O(n)   | [Python Solution Code](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/1421935/Python-Two-Approaches-Approach-1%3A-DFS-Approach-2%3A-Inorder-Traversal)|
 
 <h3 align="center">9. HEAPS</h3>
 
