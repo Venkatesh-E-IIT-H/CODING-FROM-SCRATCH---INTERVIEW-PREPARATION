@@ -1,4 +1,4 @@
-# CODING-FROM-SCRATCH---INTERVIEW-PREPARATION
+<h1 align="center">CODING-FROM-SCRATCH---INTERVIEW-PREPARATION</h1>
 This repository contains the coding questions from easy to advanced level for interview preparation. 
 
 ### **Topics Covered** 
