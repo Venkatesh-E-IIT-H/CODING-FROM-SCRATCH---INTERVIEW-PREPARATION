@@ -60,6 +60,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)   | Medium     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/add-two-numbers/discuss/1421962/Python-Faster-than-96.27-of-submissions)|
+|Leetcode| [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)   | Medium     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/add-two-numbers-ii/discuss/1421977/Python-Reverse-Linked-List-%2B-Add-Two-Numbers-Approach(Leetcode-Problem-2))|
 
 <h3 align="center">7. TREES</h3>
 
