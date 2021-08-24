@@ -97,6 +97,7 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
+|Leetcode| [338. Counting Bits](https://leetcode.com/problems/counting-bits/)   | Easy    | O(n)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/counting-bits/discuss/1423170/Python-DP-Tc-and-Sc-O(n))|
 |Leetcode| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | Medium     | O(n^2)            | O(n^2)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/longest-palindromic-substring/discuss/1422778/Python-Two-Approaches-Approach-1-DP-Approach-2-Space-O(1)-Expand-around-center)|
 
 <h3 align="center">12. BACKTRACKING</h3>
