@@ -36,6 +36,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Leetcode| [15. 3Sum](https://leetcode.com/problems/3sum/)   | Medium    | O(n^2)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/3sum/discuss/1423055/Python-3Sum-Tc%3A-O(n2)-Sc%3A-O(n)-3-Pointer-Approach)|
 |Leetcode| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)   | Medium    | O(n^2)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/3sum-closest/discuss/1423083/Python-Three-Pointer-Approach-Time-%3A-O(n2))|
 |Leetcode| [18. 4Sum](https://leetcode.com/problems/4sum/)   | Medium    | O(n^3)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/4sum/discuss/1423106/Python-Four-Pointers-O(n3)-Time-Complexity-and-O(n)-Space)|
+|Leetcode| [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)   | Medium    | O(lognbase3)            | O(lognbase3)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/4sum/discuss/1423106/Python-Four-Pointers-O(n3)-Time-Complexity-and-O(n)-Space)|
 
 <h3 align="center">2. BIT MANIPULATION</h3>
 
