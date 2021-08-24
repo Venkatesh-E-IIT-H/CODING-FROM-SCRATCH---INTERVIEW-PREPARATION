@@ -31,6 +31,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Leetcode| [1. Two Sum](https://leetcode.com/problems/two-sum/)   | Easy    | O(n)            | O(N)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum/discuss/1421858/Python-Solution-using-Dictionary-Time-Complexity%3A-O(n)-Space-Complexity%3A-O(n))|
 |Leetcode| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1421879/Python-Solution-Two-Pointer-Approach-Tc%3A-O(n)-and-Sc%3A-O(1))|
 |Leetcode| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/palindrome-number/discuss/1422654/Python-Two-Pointers-Solution-Tc-O(n)-and-Sc-O(1))|
+|Leetcode| [11. Container With Most Water](https://leetcode.com/problems/palindrome-number/)   | Medium    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/container-with-most-water/discuss/1422838/Python-Two-Pointer-Approach-Tc-O(n)-and-Sc-O(1))|
 
 <h3 align="center">2. BIT MANIPULATION</h3>
 
