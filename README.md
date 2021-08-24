@@ -31,7 +31,11 @@ This repository contains the coding questions from easy to advanced level for in
 |Leetcode| [1. Two Sum](https://leetcode.com/problems/two-sum/)   | Easy    | O(n)            | O(N)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum/discuss/1421858/Python-Solution-using-Dictionary-Time-Complexity%3A-O(n)-Space-Complexity%3A-O(n))|
 |Leetcode| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1421879/Python-Solution-Two-Pointer-Approach-Tc%3A-O(n)-and-Sc%3A-O(1))|
 |Leetcode| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/palindrome-number/discuss/1422654/Python-Two-Pointers-Solution-Tc-O(n)-and-Sc-O(1))|
+|Leetcode| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Easy    | O(k*n),k-len(minelement)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/longest-common-prefix/discuss/1423028/Python-Solution)|
 |Leetcode| [11. Container With Most Water](https://leetcode.com/problems/palindrome-number/)   | Medium    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/container-with-most-water/discuss/1422838/Python-Two-Pointer-Approach-Tc-O(n)-and-Sc-O(1))|
+|Leetcode| [15. 3Sum](https://leetcode.com/problems/3sum/)   | Medium    | O(n^2)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/3sum/discuss/1423055/Python-3Sum-Tc%3A-O(n2)-Sc%3A-O(n)-3-Pointer-Approach)|
+|Leetcode| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)   | Medium    | O(n^2)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/3sum-closest/discuss/1423083/Python-Three-Pointer-Approach-Time-%3A-O(n2))|
+|Leetcode| [18. 4Sum](https://leetcode.com/problems/4sum/)   | Medium    | O(n^3)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/4sum/discuss/1423106/Python-Four-Pointers-O(n3)-Time-Complexity-and-O(n)-Space)|
 
 <h3 align="center">2. BIT MANIPULATION</h3>
 
@@ -99,7 +103,7 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [Non - Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)   | Medium     | O(n)            | O(1)   | [Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)[Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)|
+|Leetcode| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   | Medium     | O(3^N * 4^M)            | O(3^N * 4^M)     | [Python Solution Code](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1423142/Python-Backtracking-Time-and-Space-%3A-O(3N-*-4M))|
 
 <h3 align="center">13. GRAPHS</h3>
 
