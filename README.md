@@ -30,6 +30,7 @@ This repository contains the coding questions from easy to advanced level for in
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [1. Two Sum](https://leetcode.com/problems/two-sum/)   | Easy    | O(n)            | O(N)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum/discuss/1421858/Python-Solution-using-Dictionary-Time-Complexity%3A-O(n)-Space-Complexity%3A-O(n))|
 |Leetcode| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1421879/Python-Solution-Two-Pointer-Approach-Tc%3A-O(n)-and-Sc%3A-O(1))|
+|Leetcode| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | Easy    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/palindrome-number/discuss/1422654/Python-Two-Pointers-Solution-Tc-O(n)-and-Sc-O(1))|
 
 <h3 align="center">2. BIT MANIPULATION</h3>
 
@@ -42,6 +43,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)   | Medium     | O(n)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1421992/Python-Time-and-Space-O(n))|
+|Leetcode| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | Medium     | O(n^2)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/longest-palindromic-substring/discuss/1422778/Python-Two-Approaches-Approach-1-DP-Approach-2-Space-O(1)-Expand-around-center)|
 
 <h3 align="center">4. STACKS</h3>
 
@@ -90,7 +92,7 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [Non - Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)   | Medium     | O(n)            | O(1)   | [Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)[Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)|
+|Leetcode| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | Medium     | O(n^2)            | O(n^2)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/longest-palindromic-substring/discuss/1422778/Python-Two-Approaches-Approach-1-DP-Approach-2-Space-O(1)-Expand-around-center)|
 
 <h3 align="center">12. BACKTRACKING</h3>
 
