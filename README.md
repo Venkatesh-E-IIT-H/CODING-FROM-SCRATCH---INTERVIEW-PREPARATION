@@ -75,6 +75,8 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
+|Leetcode| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)   | Easy     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/linked-list-cycle/discuss/1426739/Python-Floyd's-Cycle-Detection-Algorithm-Tc%3A-O(n)-and-Sc%3A-O(1))|
+|Leetcode| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)   | Medium     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/linked-list-cycle-ii/discuss/1426744/Python-Solution-Tc%3A-O(n)-and-Sc%3A-O(1))|
 |Leetcode| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)   | Medium     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/add-two-numbers/discuss/1421962/Python-Faster-than-96.27-of-submissions)|
 |Leetcode| [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)   | Medium     | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/add-two-numbers-ii/discuss/1421977/Python-Reverse-Linked-List-%2B-Add-Two-Numbers-Approach(Leetcode-Problem-2))|
 
@@ -82,7 +84,7 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|Leetcode| [Non - Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)   | Medium     | O(n)            | O(1)   | [Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)[Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)|
+|Leetcode| [100. Same Tree](https://leetcode.com/problems/same-tree/)   | Easy     | O(n)            | O(h)   | [Python Solution Code-Leetcode Discuss](https://leetcode.com/problems/same-tree/discuss/1426734/Python-Recursion-Tc-O(n)-and-Sc-O(h))|
 
 <h3 align="center">8. BINARY SEARCH TREES</h3>
 
@@ -115,7 +117,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   | Medium     | O(3^N * 4^M)            | O(3^N * 4^M)     | [Python Solution Code](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1423142/Python-Backtracking-Time-and-Space-%3A-O(3N-*-4M))|
-|Leetcode| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)   | Medium     | O(2^2n)           | O(n)     | [Python Solution Code](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1423142/Python-Backtracking-Time-and-Space-%3A-O(3N-*-4M))|
+|Leetcode| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)   | Medium     | O(2^2n)           | O(n)     | [Python Solution Code](https://leetcode.com/problems/generate-parentheses/discuss/1426729/Python-BackTracking)|
 
 <h3 align="center">13. GRAPHS</h3>
 
