@@ -142,8 +142,8 @@ This repository contains the coding questions from easy to advanced level for in
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
-|IB| [Path in Directed Graph](https://www.codepile.net/pile/b3nqPZoR)   | Easy    | O(v+e)           | O(v+e)     | [Python Solution Code](https://www.codepile.net/pile/b3nqPZoR)|
-|IB| [Number Of Islands](https://www.codepile.net/pile/P3OremDk)   | Medium     | O(n+m)           | O(n+m)     | [Python Solution Code](https://www.codepile.net/pile/P3OremDk)|
+|IB| [Path in Directed Graph](https://www.codepile.net/pile/Wejp5lYo)   | Easy    | O(v+e)           | O(v+e)     | [Python Solution Code](https://www.codepile.net/pile/Wejp5lYo)|
+|IB| [Number Of Islands](https://www.codepile.net/pile/G5yjYJv6)   | Medium     | O(n+m)           | O(n+m)     | [Python Solution Code](https://www.codepile.net/pile/G5yjYJv6)|
 
 <h3 align="center">14. GREEDY</h3>
 
