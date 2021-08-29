@@ -150,6 +150,7 @@ This repository contains the coding questions from easy to advanced level for in
 |IB| [Path in Directed Graph](https://www.codepile.net/pile/Wejp5lYo)   | Easy    | O(v+e)           | O(v+e)     | [Python Solution Code](https://www.codepile.net/pile/Wejp5lYo)|
 |IB| [First Depth First Search](https://www.codepile.net/pile/XyMZ7JYV)   | Medium     | O(n)           | O(n)     | [Python Solution Code](https://www.codepile.net/pile/XyMZ7JYV)|
 |IB| [Number Of Islands](https://www.codepile.net/pile/G5yjYJv6)   | Medium     | O(n+m)           | O(n+m)     | [Python Solution Code](https://www.codepile.net/pile/G5yjYJv6)|
+|IB| [Rotten Oranges](https://www.codepile.net/pile/Y6J4eEy2)   | Medium     | O(nm)           | O(nm)     | [Python Solution Code](https://www.codepile.net/pile/Y6J4eEy2)|
 
 <h3 align="center">14. GREEDY</h3>
 
