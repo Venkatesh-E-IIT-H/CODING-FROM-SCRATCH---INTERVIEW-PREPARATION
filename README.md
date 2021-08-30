@@ -156,10 +156,10 @@ This repository contains the coding questions from easy to advanced level for in
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [733. Flood Fill](https://leetcode.com/problems/flood-fill/)   | Easy    | O(n)           | O(n)     | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/flood-fill/discuss/1435342/Python-DFS-O(n)-time-and-space)|
+|IB| [Path in Directed Graph](https://www.codepile.net/pile/Wejp5lYo)   | Easy    | O(v+e)           | O(v+e)     | [Python Solution Code](https://www.codepile.net/pile/Wejp5lYo)|
 |Leetcode| [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)   | Easy    | O(n*m)           | O(1)     | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/island-perimeter/discuss/1435423/Python-Iterative-Time-O(n*m)-and-Space-O(1))|
 |Leetcode| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)   | Medium   | O(n*m)           | O(max(n,m))     | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/number-of-islands/discuss/1435438/Python-BFS-Time-O(n*m)-and-Space-O(max(mn)))|
 |Leetcode| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)   | Meidum    | O(n*m)           | O(n*m)     | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/max-area-of-island/discuss/1435380/Python-DFS-Time-and-Space-O(n*m))|
-|IB| [Path in Directed Graph](https://www.codepile.net/pile/Wejp5lYo)   | Easy    | O(v+e)           | O(v+e)     | [Python Solution Code](https://www.codepile.net/pile/Wejp5lYo)|
 |IB| [First Depth First Search](https://www.codepile.net/pile/XyMZ7JYV)   | Medium     | O(n)           | O(n)     | [Python Solution Code](https://www.codepile.net/pile/XyMZ7JYV)|
 |IB| [Number Of Islands](https://www.codepile.net/pile/G5yjYJv6)   | Medium     | O(n+m)           | O(n+m)     | [Python Solution Code](https://www.codepile.net/pile/G5yjYJv6)|
 |IB| [Rotten Oranges](https://www.codepile.net/pile/Y6J4eEy2)   | Medium     | O(nm)           | O(nm)     | [Python Solution Code](https://www.codepile.net/pile/Y6J4eEy2)|
