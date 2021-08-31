@@ -167,6 +167,7 @@ This repository contains the coding questions from easy to advanced level for in
 |IB| [Number Of Islands](https://www.codepile.net/pile/G5yjYJv6)   | Medium     | O(n*m)           | O(n*m)     | [Python Solution Code](https://www.codepile.net/pile/G5yjYJv6)|
 |IB| [Valid Paths](https://www.codepile.net/pile/K4Pxn74Y)   | Medium     | O(n*m)           | O(n*m)     | [Python Solution Code](https://www.codepile.net/pile/K4Pxn74Y)|
 |IB| [Rotten Oranges](https://www.codepile.net/pile/Y6J4eEy2)   | Medium     | O(nm)           | O(nm)     | [Python Solution Code](https://www.codepile.net/pile/Y6J4eEy2)|
+|Leetcode| [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)   | Medium     | O(v+e)           | O(v+e)     | [Python Solution Code](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/1437228/Python-Two-Approaches-DFS-and-Union-Find)|
 
 <h3 align="center">14. GREEDY</h3>
 
@@ -186,7 +187,13 @@ This repository contains the coding questions from easy to advanced level for in
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
 |Leetcode| [Non - Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)   | Medium     | O(n)            | O(1)   | [Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)[Python Solution Code](https://github.com/venkateshelangovan/IIT-H-Course-Work-/blob/main/Placement%20Preparation%20-%20IIT%20H%20-%20Leetcode/Arrays/Medium%20-%20Non-Decreasing%20Array%20-%20Leetcode%20665.py)|
 
-<h3 align="center">17. FAMOUS ALGORITHMS</h3>
+<h3 align="center">17. Union Find</h3>
+
+|Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
+|--------------------|--------------------------|------------|-----------------|------------------|----------|
+|Leetcode| [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)   | Medium     | O(e⋅α(n))          | O(v)     | [Python Solution Code](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/1437228/Python-Two-Approaches-DFS-and-Union-Find)|
+
+<h3 align="center">18. FAMOUS ALGORITHMS</h3>
 
 |Platform |       Problem           | Difficulty Level | Time Complexity | Space Complexity | Solution |
 |--------------------|--------------------------|------------|-----------------|------------------|----------|
