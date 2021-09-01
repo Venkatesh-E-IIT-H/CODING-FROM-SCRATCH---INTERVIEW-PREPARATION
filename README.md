@@ -116,6 +116,7 @@ This repository contains the coding questions from easy to advanced level for in
 |Leetcode| [100. Same Tree](https://leetcode.com/problems/same-tree/)   | Easy     | O(n)            | O(h)   | [Python Solution Code-Leetcode Discuss](https://leetcode.com/problems/same-tree/discuss/1426734/Python-Recursion-Tc-O(n)-and-Sc-O(h))|
 |Leetcode| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)   | Easy     | O(n)            | O(n)   | [Python Solution Code-Leetcode Discuss](https://leetcode.com/problems/merge-two-binary-trees/discuss/1437388/Python-Recursive-Approach-O(n)-time-and-space)|
 |Leetcode| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)   | Easy     | O(n)            | O(h)   | [Python Solution Code-Leetcode Discuss](https://leetcode.com/problems/subtree-of-another-tree/discuss/1436704/Python-Time-O(n)-and-Space-O(h))|
+|Leetcode| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)   | Medium    | O(n)            | O(1)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/discuss/1438553/Python-O(n)-time-and-O(1)-space)|
 |Leetcode| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)   | Medium    | O(n)            | O(n)   | [Python Solution Code - Leetcode Discuss](https://leetcode.com/problems/house-robber-iii/discuss/1428507/Python-DFS-Time-O(n)-and-Space-O(n))|
 
 <h3 align="center">8. BINARY SEARCH TREES</h3>
